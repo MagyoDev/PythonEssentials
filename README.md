@@ -11,9 +11,6 @@ O repositório está organizado da seguinte forma:
 3. **Loops**: Explore os diferentes tipos de loops disponíveis em Python, incluindo `for` e `while`, e como utilizá-los para repetir a execução de um bloco de código.
 4. **Funções**: Saiba como criar e utilizar funções em Python para organizar e reutilizar blocos de código.
 5. **Listas**: Aprenda sobre listas, uma estrutura de dados muito utilizada em Python, e como manipulá-las.
-6. **Dicionários**: Entenda o conceito de dicionários em Python e como eles podem ser usados para armazenar pares de chave-valor.
-7. **Módulos**: Explore os módulos em Python e como eles podem ser utilizados para estender as funcionalidades da linguagem.
-8. **Tratamento de erros**: Saiba como lidar com erros e exceções em Python para criar programas mais robustos.
 
 Cada tópico contém exemplos de código e explicações detalhadas para auxiliá-lo na compreensão dos conceitos abordados.
 
